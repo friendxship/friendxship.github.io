@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+.headerFont {
+	font-size:64px;
+	text-align:center;
+	padding:10px;
+	color:#ff0059;
+}
